@@ -1,5 +1,5 @@
 # Arabic_NLP
-This is an Arabic language Analysis.
+This is an Arabic tweets Analysis.
 
 ## •	Data Description:
 The data is tweets collected from a API Twitter developer account. With a size of 29,000 tweets.
